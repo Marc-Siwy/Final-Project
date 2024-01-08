@@ -1,3 +1,7 @@
+//Created by Marc Siwy
+//Created on Jan 2024
+// Half Adder
+
 import machine
 import utime
 
